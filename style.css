@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  text-align: center;
+  padding: 50px;
+}
+
+.card {
+  background-color: white;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+#taskList {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+#taskList li {
+  background-color: #f0f4f8;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 6px;
+}
